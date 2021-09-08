@@ -25,8 +25,6 @@ The different sections in the supermarked add up to 5 possible states:
 5. checkout
 #### The transition matrix of the markov-chain
 ![](transition_monday.png)
-#### Example for customer in the supermarket
-![](customer_simulation.gif)
 ### Technologies and Libraries
 - Python 3.8
 - OpenCV
