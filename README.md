@@ -23,9 +23,9 @@ The different sections in the supermarked add up to 5 possible states:
 3. spices
 4. fruits
 5. checkout
-## The transition matrix of the markov-chain
+#### The transition matrix of the markov-chain
 ![](transition_monday.png)
-## Example for customer in the supermarket
+#### Example for customer in the supermarket
 ![](customer_simulation.gif)
 ### Technologies and Libraries
 - Python 3.8
@@ -38,4 +38,4 @@ The different sections in the supermarked add up to 5 possible states:
 
 ### Setup
 For optimal simulation of customers in a supermarkt, execute the project (MCMC_Animation.py) in **Visual Studio Code** or in your terminal.
-### Status
+
