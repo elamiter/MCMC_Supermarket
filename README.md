@@ -21,4 +21,4 @@ In this project, customer behaviour in a supermarket is analyzed and simulated i
 
 ### Setup
 For optimal simulation of customers in a supermarkt, execute the project (MCMC_Animation.py) in **Visual Studio Code** or in your terminal.
-### Status
+
