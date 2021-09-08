@@ -4,11 +4,11 @@ In this project, customer behaviour in a supermarket is analyzed and simulated i
 ## Table of Contents
 - [General info](#general-info)
 - [Technologies and Libraries](#technologies-and-libraries)
-- [Setup](#setup)
+
 
 
 ### General info
-## The transition matrix of the markov-chain
+#### The transition matrix of the markov-chain
 ![](transition_monday.png)
 ### Technologies and Libraries
 - Python 3.8
